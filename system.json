@@ -2,16 +2,16 @@
   "id": "blades-in-the-dark",
   "title": "Blades in the Dark",
   "description": "Blades in the dark game system.",
-  "version": "4.4",
+  "version": "4.4.1",
   "compatibility": {
     "minimum": 10,
     "verified": "10.284"
   },
   "name": "blades-in-the-dark",
   "minimumCoreVersion": "10",
-  "url": "https://github.com/megastruktur/foundryvtt-blades-in-the-dark/",
-  "manifest": "https://raw.githubusercontent.com/megastruktur/foundryvtt-blades-in-the-dark/master/system.json",
-  "download": "https://github.com/megastruktur/foundryvtt-blades-in-the-dark/archive/4.4.zip",
+  "url": "https://github.com/anthonywaters/foundryvtt-blades-in-the-dark/",
+  "manifest": "https://raw.githubusercontent.com/anthonywaters/foundryvtt-blades-in-the-dark/dev/system.json",
+  "download": "https://github.com/anthonywaters/foundryvtt-blades-in-the-dark/archive/dev.zip",
   "authors": [
     { "name": "megastruktur" },
     { "name": "drewg13" },
